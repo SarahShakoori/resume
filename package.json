@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "export-html": "resume export resume.html --theme full",
+    "export-html": "resume export ./docs/index.html --theme full",
     "export-pdf": "resume export resume.pdf --theme full"
   },
   "dependencies": {
