@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "export-html": "resume export resume.html --theme full",
+    "export-pdf": "resume export resume.pdf --theme full"
+  },
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-full": "^0.0.4",
+    "jsonresume-theme-orbit": "^2.0.0",
+    "jsonresume-theme-papirus": "^0.0.5",
+    "resume-cli": "^3.0.8",
+    "resumed": "^3.0.1"
+  }
+}

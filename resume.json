@@ -5,7 +5,6 @@
   "basics": {
     "name": "Sarah Shakoori",
     "label": "Full-Stack Engineer",
-    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
     "summary": "Enthusiastic junior full-stack engineer with a solid foundation from a three-month web development bootcamp. Proficient in HTML, CSS, and JavaScript, with hands-on experience in React and Node.js. Skilled in Git, databases, and deploying web applications. Demonstrates problem-solving abilities, commits to coding best practices, and excels in collaboration and communication.",
     "website": "https://github.com/SarahShakoori",
     "email": "sarah.shakoori@gmail.com",
@@ -45,6 +44,7 @@
   ],
   "skills": [
     {
+      "name": "Web Development",
       "keywords": [
         "HTML5",
         "SCSS",
@@ -120,6 +120,20 @@
     },
     {
       "name": "Reading"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Swedish",
+      "fluency": "Medium"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
     }
   ]
 }
