@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Sarah Shakoori",
+    "label": "Full-Stack Engineer",
+    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "summary": "Enthusiastic junior full-stack engineer with a solid foundation from a three-month web development bootcamp. Proficient in HTML, CSS, and JavaScript, with hands-on experience in React and Node.js. Skilled in Git, databases, and deploying web applications. Demonstrates problem-solving abilities, commits to coding best practices, and excels in collaboration and communication.",
+    "website": "https://github.com/SarahShakoori",
+    "email": "sarah.shakoori@gmail.com",
+    "location": {
+      "city": "Stockholm",
+      "region": "Sweden",
+      "countryCode": "SE"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/SarahShakoori",
+        "username": "SarahShakoori",
+        "network": "github"
+      },
+      {
+        "url": "https://www.linkedin.com/in/sarah-shakoori/",
+        "username": "Sarah Shakoori",
+        "network": "linkedin"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2023",
+      "startDate": "2024",
+      "area": "Web Development Bootcamp",
+      "studyType": "Bootcamp",
+      "institution": "3 months Bootcamp (Udemy)"
+    },
+    {
+      "endDate": "2005",
+      "startDate": "2008",
+      "area": "Master of Computer Science",
+      "studyType": "Master",
+      "institution": "The University of Mazandaran, Iran"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML5",
+        "SCSS",
+        "CSS",
+        "Bootstrap",
+        "Styled Components",
+        "Javascript",
+        "Typescript",
+        "React",
+        "NodeJS",
+        "Git",
+        "Express",
+        "Postgres",
+        "SQL"
+      ],
+      "level": "Junior"
+    }
+  ],
+  "work": [
+    {
+      "summary": "Contributed as a PHP developer, leveraging expertise in server-side scripting to build and maintain dynamic web applications.",
+      "name": "Exir Research",
+      "location": "Tehran, Iran",
+      "position": "Backend Engineer",
+      "startDate": "2014",
+      "endDate": "2015",
+      "highlights": [
+        "Developed and maintained server-side logic using PHP.",
+        "Implemented database interactions, utilizing MySQL to store and retrieve data.",
+        "Implemented CRUD operations in PHP to facilitate seamless data management within web applications.",
+        "Developed and maintained administrative interfaces, enhancing the user experience in managing website content.",
+        "Deployed PHP applications to Apache servers"
+      ]
+    },
+    {
+      "summary": "Contributed to front-end development projects as a junior developer, employing proficiency in HTML, CSS, and JavaScript to create engaging and responsive user interfaces.",
+      "website": "https://www.exirresearch.ir/",
+      "name": "Exir Research",
+      "location": "Tehran, Iran",
+      "position": "Frontend Engineer",
+      "startDate": "2011",
+      "endDate": "2013",
+      "highlights": [
+        "Developed and maintained responsive user interfaces using HTML, CSS, and JavaScript.",
+        "Translated design mockups (PSD) into pixel-perfect, code-based UI components using HTML, CSS, and JavaScript.",
+        "Implemented CSS styling techniques for consistent branding and optimal user experience across platforms.",
+        "Collaborated closely with design teams, ensuring accurate interpretation and seamless integration of UI/UX concepts.",
+        "Leveraged JavaScript for interactive features, enhancing user engagement and overall website functionality."
+      ]
+    },
+    {
+      "summary": "Provided IT support, troubleshooting hardware and software issues, assisting users with technical inquiries.",
+      "website": "https://www.tehran.ir/",
+      "name": "Tehran Municipality",
+      "location": "Tehran, Iran",
+      "position": "IT Support",
+      "startDate": "2009",
+      "endDate": "2011",
+      "highlights": [
+        "Provided IT support, resolving hardware and software issues promptly.",
+        "Assisted in setup and maintenance of computer systems, ensuring optimal functionality.",
+        "Collaborated on troubleshooting network connectivity problems.",
+        "Offered user training to boost IT literacy and independence in issue resolution."
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Programming"
+    },
+    {
+      "name": "Cooking"
+    },
+    {
+      "name": "Reading"
+    }
+  ]
+}
