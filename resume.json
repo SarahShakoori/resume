@@ -28,15 +28,15 @@
   },
   "education": [
     {
-      "endDate": "2023",
-      "startDate": "2024",
+     
+      "startDate": "August 2023",
       "area": "Web Development Bootcamp",
       "studyType": "Bootcamp",
       "institution": "3 months Bootcamp (Udemy)"
     },
     {
-      "endDate": "2005",
-      "startDate": "2008",
+      "endDate": "May 2008",
+      "startDate": "Septamber 2004",
       "area": "Master of Computer Science",
       "studyType": "Master",
       "institution": "The University of Mazandaran, Iran"
@@ -69,7 +69,7 @@
       "name": "Exir Research",
       "location": "Tehran, Iran",
       "position": "Backend Engineer",
-      "startDate": "2014",
+      "startDate": "2013",
       "endDate": "2015",
       "highlights": [
         "Developed and maintained server-side logic using PHP.",
